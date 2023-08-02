@@ -1,0 +1,18 @@
+.container {
+    margin: 0 auto ;
+    
+    width: 80%;
+}
+.container-app {
+    text-align: center;
+    
+}
+.input{
+    list-style: none;
+}
+.input li span{
+    margin-right: 20px;
+}
+.input li input {
+    margin-right: 10px;
+}
